@@ -2,7 +2,7 @@ cat > day2-self-phish/README.md << 'EOF'
 # Day 2: Self-Phishing Lab
 
 ### 🎯 Objective
-Stand up a local phishing page, send yourself a link via local mail, and capture credentials in **creds.log**.
+Set up a local phishing page, send yourself a link via local mail, and capture credentials in **creds.log**.
 
 ### 🛠️ Usage
 1. **Launch the server**  
